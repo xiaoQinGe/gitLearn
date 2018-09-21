@@ -18,3 +18,4 @@ master+123
 featureBranch2+123
 develop: do x
 develop: do xx
+develop: do xxx
