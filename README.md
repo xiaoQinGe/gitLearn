@@ -20,3 +20,4 @@ develop: do x
 develop: do xx
 develop: do xxx
 featureBranch: do x
+featureB: add one line
